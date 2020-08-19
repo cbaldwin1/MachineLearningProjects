@@ -1,2 +1,0 @@
-source env/bin/activate
-load jupyter notebook Housing.ipynb  (launch jupyter notebook from thi directory adn the housing ntbk file should be there in the directory)
